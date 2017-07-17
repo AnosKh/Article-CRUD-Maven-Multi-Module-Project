@@ -19,6 +19,7 @@ public class WebUiSpringBootWebApplication extends SpringBootServletInitializer{
     }
 
 
+
     public static void main(String args[]){
         SpringApplication.run(WebUiSpringBootWebApplication.class , args);
     }
